@@ -1,21 +1,25 @@
 # site properties and page defaults
-title: Anna Prieto Colomina
-subtitle: Biomedical Scientist | Neurodevelopment | Pediatric Brain Tumors
-description: Hi! I’m a neuroscientist focused on pediatric brain tumors (ETMR), multi-omics, and translational models. 
-PhD candidate, Instituto de Neurociencias (CSIC-UMH)
-Interest in LIN28/let-7 axis, Dicer, scRNA-seq and in vivo models 
+title: "Anna Prieto Colomina"
+subtitle: "Biomedical Scientist | Neurodevelopment | Pediatric Brain Tumors"
+description: "Hi! I’m a neuroscientist focused on pediatric brain tumors (ETMR), multi-omics, and translational models. PhD candidate, Instituto de Neurociencias (CSIC-UMH). Interest in LIN28/let-7 axis, Dicer, scRNA-seq and in vivo models." 
 header: images/background.jpg
 footer: images/background.jpg 
 proofer: false
 
 # site social media and other links
 links:
-  email: anprieco@gmail.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: https://scholar.google.com/citations?user=8HR8AqkAAAAJ&hl=es 
-  github: https://github.com/anprieco
-  twitter: https://x.com/annaprico
-  bluesky: https://bsky.app/profile/annaprico.bsky.social
+  - label: "Email"
+    url: "mailto:anprieco@gmail.com"
+  - label: "ORCID"
+    url: "https://orcid.org/0000-0001-8713-9213"
+  - label: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=8HR8AqkAAAAJ&hl=es"
+  - label: "GitHub"
+    url: "https://github.com/anprieco"
+  - label: "Twitter"
+    url: "https://x.com/annaprico"
+  - label: "Bluesky"
+    url: "https://bsky.app/profile/annaprico.bsky.social"
 
 ### jekyll settings
 
