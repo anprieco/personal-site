@@ -5,7 +5,7 @@ description: Hi! I’m a neuroscientist focused on pediatric brain tumors (ETMR)
 PhD candidate, Instituto de Neurociencias (CSIC-UMH)
 Interest in LIN28/let-7 axis, Dicer, scRNA-seq and in vivo models 
 header: images/background.jpg
-footer: images/background.jpg
+footer: images/background.jpg 
 proofer: false
 
 # site social media and other links
