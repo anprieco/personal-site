@@ -1,9 +1,10 @@
 ---
 ---
 
-# anprieco's Website
+Welcome! I'm a biomedical scientist fascinated by how the same developmental programs that build the brain can, when dysregulated, give rise to childhood cancer.  
+Through my PhD at the **Institute of Neuroscience (CSIC-UMH)**, I studied **Embryonal Tumors with Multilayered Rosettes (ETMR)** using genetically engineered mouse models and multi-omics technologies to uncover their embryonic origins.
 
-An engaging 1-3 sentence description of your lab.
+I enjoy bridging basic neurodevelopment with translational oncology, and I’m driven by the idea that understanding *how we are built* may be key to understanding *how disease begins*.
 
 {% include section.html %}
 
