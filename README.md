@@ -5,6 +5,6 @@
 
   # anprieco's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[anprieco.github.io/personal-site](https://anprieco.github.io/personal-site)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
