@@ -1,7 +1,9 @@
 # site properties and page defaults
-title: anprieco
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Anna Prieto Colomina
+subtitle: Biomedical Scientist | Neurodevelopment | Pediatric Brain Tumors
+description: Hi! I’m a neuroscientist focused on pediatric brain tumors (ETMR), multi-omics, and translational models.  
+- PhD candidate, Instituto de Neurociencias (CSIC-UMH)  
+- Interests: LIN28/let-7 axis, Dicer, scRNA-seq, in vivo models
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
