@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # anprieco's Website
+  # Anna Prieto's Profile Website
 
   Visit **[anprieco.github.io/personal-site](https://anprieco.github.io/personal-site)** 🚀
 
