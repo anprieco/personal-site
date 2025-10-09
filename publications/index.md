@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Below is a selection of my recent publications, reflecting my journey through neurodevelopment and pediatric oncology research. Each piece represents a step toward understanding how early developmental programs shape brain formation—and how their disruption can lead to disease.
+Below is a selection of publications where I have participated as an author, reflecting my journey through neurodevelopment and pediatric oncology research. Each piece represents a step toward understanding how early developmental programs shape brain formation—and how their disruption can lead to disease.
 
 These works also highlight the power of collaboration, curiosity, and translational thinking in advancing science. 
 Feel free to explore the stories behind the data and the discoveries that keep me inspired!
