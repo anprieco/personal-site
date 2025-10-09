@@ -1,21 +1,21 @@
 # site properties and page defaults
 title: "Anna Prieto Colomina"
 subtitle: "Biomedical Scientist | Neurodevelopment | Pediatric Brain Tumors"
-description: "Hi! I’m a neuroscientist focused on pediatric brain tumors (ETMR), multi-omics, and translational models. PhD candidate, Instituto de Neurociencias (CSIC-UMH). Interest in LIN28/let-7 axis, Dicer, scRNA-seq and in vivo models." 
+description: "Hi! I’m a neuroscientist focused on pediatric brain tumors (ETMR), multi-omics, and translational models. PhD candidate, Instituto de Neurociencias (CSIC-UMH). Interest in LIN28/let-7 axis, Dicer, scRNA-seq and in vivo models."
 header: images/background.jpg
-footer: images/background.jpg 
+footer: images/background.jpg
 proofer: false
 
 # site social media and other links
-  links:
-    email: anprieco@gmail.com
-    orcid: 0000-0001-8713-9213
-    google-scholar: 8HR8AqkAAAAJ
-    github: anprieco
-    twitter: annaprico
-    bluesky: annaprico.bsky.social
+links:
+  email: anprieco@gmail.com
+  orcid: 0000-0001-8713-9213
+  google-scholar: 8HR8AqkAAAAJ
+  github: anprieco
+  twitter: annaprico
+  bluesky: annaprico.bsky.social
 
-# navigation bar (menu items at the top)
+# navigation bar (menu items at the top)  ← this block is harmless, but note:
 navigation:
   - title: "About me"
     url: /
@@ -27,41 +27,33 @@ navigation:
     url: /publications/
   - title: "Awards"
     url: /awards/
-  - title: "Conferences & Couses"
+  - title: "Conferences & Courses"
     url: /conferences/
   - title: "Contact"
     url: /contact/
 
-
 ### jekyll settings
-
 # front matter defaults
 defaults:
-  # all markdown files
   - scope:
       path: ""
     values:
       layout: default
-  # markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
   - scope:
       type: "posts"
     values:
       layout: post
 
 collections:
-  # generate page for each member
   members:
     output: true
-  # generate page for each post
   posts:
     output: true
 
-# jekyll plugins
 plugins:
   - jekyll-spaceship
   - jekyll-sitemap
@@ -69,22 +61,16 @@ plugins:
   - jekyll-feed
   - jekyll-last-modified-at
 
-# code block syntax highlighting
 highlighter: rouge
-
-# jekyll theme
 theme: null
 
-# sass settings
 sass:
   sass_dir: _styles
 
-# force jekyll to include certain files/folders
 include:
   - _styles
   - _scripts
 
-# force jekyll to exclude certain files/folders
 exclude:
   - README.md
   - LICENSE.md
