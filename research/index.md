@@ -41,9 +41,4 @@ Feel free to explore the stories behind the data and the discoveries that keep m
 
 {% include search-info.html %}
 
-{% include citation.html lookup="doi:10.3389/fcell.2024.1464932" style="rich" %}
-{% include citation.html lookup="doi:10.1126/sciadv.adn9998" style="rich" %}
-{% include citation.html lookup="doi:10.1126/sciadv.abj4010" style="rich" %}
-{% include citation.html lookup="doi:10.15252/embj.2020105479" style="rich" %}
-
 {% include list.html data="citations" component="citation" style="rich" %}
