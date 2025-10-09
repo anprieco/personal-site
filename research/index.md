@@ -16,7 +16,7 @@ Feel free to explore the stories behind the data and the discoveries that keep m
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="MiRNAs in early brain development and pediatric cancer" style="rich" %}
 
 {% include section.html %}
 
