@@ -1,14 +1,16 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
+  order: 3
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Below is a selection of my recent publications, reflecting my journey through neurodevelopment and pediatric oncology research. Each piece represents a step toward understanding how early developmental programs shape brain formation—and how their disruption can lead to disease.
+
+These works also highlight the power of collaboration, curiosity, and translational thinking in advancing science. 
+Feel free to explore the stories behind the data and the discoveries that keep me inspired!
 
 {% include section.html %}
 
