@@ -1,37 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.3389/fcell.2024.1464932
-  title: "Mouse cortical organoids reveal key functions of p73 isoforms: TAp73 governs the establishment of the archetypical ventricular-like zones while ΔNp73 is central in the regulation of neural cell fate"
-  authors: [Alonso-Olivares H, Marques MM, Prieto-Colomina A, López-Ferreras L, Martínez-García N, Vázquez-Jiménez A, Borrell V, Marin MC, Fernandez-Alonso R]
-  publisher: Frontiers in Cell and Developmental Biology
-  date: '2024-09-23'
-  link: https://doi.org/10.3389/fcell.2024.1464932
-
-- id: doi:10.1126/sciadv.adn9998
-  title: "Multiple parallel cell lineages in the developing mammalian cerebral cortex"
-  authors: [Del-Valle-Anton L, Amin S, Cimino D, Neuhaus F, Dvoretskova E, Fernández V, Babal YK, Garcia-Frigola C, Prieto-Colomina A, Murcia-Ramón R, Nomura Y, Cárdenas A, Feng C, Moreno-Bravo JA, Götz M, Mayer C, Borrell V]
-  publisher: Science Advances
-  date: '2024-03-29'
-  link: https://doi.org/10.1126/sciadv.adn9998
-
-- id: doi:10.1126/sciadv.abj4010
-  title: "Secondary loss of miR-3607 reduced cortical progenitor amplification during rodent evolution"
-  authors: [Chinnappa K, Cárdenas A, Prieto-Colomina A, Villalba A, Márquez-Galera Á, Soler R, Nomura Y, Llorens E, Tomasello U, López-Atalaya JP, Borrell V]
-  publisher: Science Advances
-  date: '2022-01-14'
-  link: https://doi.org/10.1126/sciadv.abj4010
-
-- id: doi:10.1002/bies.202100073
-  title: "MiRNAs in early brain development and pediatric cancer: At the intersection between healthy and diseased embryonic development"
-  authors: [Prieto-Colomina A, Fernández V, Chinnappa K, Borrell V]
-  publisher: BioEssays
-  date: '2021-07-01'
-  link: https://doi.org/10.1002/bies.202100073
-
-- id: doi:10.15252/embj.2020105479
-  title: "Repression of Irs2 by let-7 miRNAs is essential for homeostasis of the telencephalic neuroepithelium"
-  authors: [Fernández V, Martínez-Martínez MÁ, Prieto-Colomina A, Cárdenas A, Soler R, Dori M, Tomasello U, Nomura Y, López-Atalaya JP, Calegari F, Borrell V]
-  publisher: EMBO Journal
-  date: '2020-11-02'
-  link: https://doi.org/10.15252/embj.2020105479
-
+- doi: 10.3389/fcell.2024.1464932
+  plugin: sources.py
+  file: sources.yaml
+- doi: 10.1126/sciadv.adn9998
+  plugin: sources.py
+  file: sources.yaml
+- doi: 10.1126/sciadv.abj4010
+  plugin: sources.py
+  file: sources.yaml
+- doi: 10.1002/bies.202100073
+  plugin: sources.py
+  file: sources.yaml
+- doi: 10.15252/embj.2020105479
+  plugin: sources.py
+  file: sources.yaml
