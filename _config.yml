@@ -8,13 +8,12 @@ proofer: false
 
 # site social media and other links
   links:
-  email: anprieco@gmail.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: 8HR8AqkAAAAJ
-  github: anprieco
-  twitter: annaprico
-  bluesky: annaprico.bsky.social
-
+    email: anprieco@gmail.com
+    orcid: 0000-0001-8713-9213
+    google-scholar: 8HR8AqkAAAAJ
+    github: anprieco
+    twitter: annaprico
+    bluesky: annaprico.bsky.social
 
 # navigation bar (menu items at the top)
 navigation:
