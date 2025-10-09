@@ -12,6 +12,20 @@ Below is a selection of my recent publications, reflecting my journey through ne
 These works also highlight the power of collaboration, curiosity, and translational thinking in advancing science. 
 Feel free to explore the stories behind the data and the discoveries that keep me inspired!
 
+<p align="center">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=prieto-colomina&sort=date" target="_blank" style="
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    font-weight: 600;
+    padding: 10px 25px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 16px;">
+    📖 Link to PubMed
+  </a>
+</p>
+
 {% include section.html %}
 
 ## Highlighted
