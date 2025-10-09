@@ -1,22 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - doi: 10.3389/fcell.2024.1464932
-  image: https://www.frontiersin.org/files/Articles/1464932/fcell-12-1464932-HTML/image_m/fcell-12-1464932-g001.jpg
+  image: images/hugo.png
   plugin: sources.py
   file: sources.yaml
 - doi: 10.1126/sciadv.adn9998
-  image: https://www.science.org/cms/10.1126/sciadv.adn9998/asset/adn9998f1.jpg
+  image: images/Lucia.png
   plugin: sources.py
   file: sources.yaml
 - doi: 10.1126/sciadv.abj4010
-  image: https://www.science.org/cms/10.1126/sciadv.abj4010/asset/abj4010f1.jpg
+  image: images/Kaviya.png
   plugin: sources.py
   file: sources.yaml
 - doi: 10.1002/bies.202100073
-  image: https://onlinelibrary.wiley.com/cms/asset/1c8b327e-40b1-4c7d-9a92-037ec6dc0eb6/bies202100073-fig-0001-m.jpg
+  image: images/Prieto.jpg
   plugin: sources.py
   file: sources.yaml
 - doi: 10.15252/embj.2020105479
-  image: https://www.embopress.org/cms/10.15252/embj.2020105479/asset/embj2020105479-fig-0001-m.jpg
+  image: images/virginia.png
   plugin: sources.py
   file: sources.yaml
