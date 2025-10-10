@@ -13,7 +13,7 @@ Welcome! I’m a **biomedical scientist** fascinated by how the same development
 
 During my PhD at the **Institute of Neuroscience (CSIC-UMH)**, I focused on **Embryonal Tumors with Multilayered Rosettes (ETMR)**, one of the rarest and most aggressive pediatric brain tumors. Using genetically **engineered mouse models** and **multi-omics approaches**, I explored how these tumors emerge from early neurodevelopmental processes, aiming to bridge fundamental biology with clinical insight. I’m passionate about **connecting basic neurodevelopment with translational oncology**, and I’m driven by the belief that *understanding how we are built, cell by cell, gene by gene, is the key to revealing how diseases like cancer begin*. 
 
-Beyond the lab, I love staying active, whether through running or working out, and I find balance in reading, cooking, and exploring new recipes. I also enjoy sharing science creatively—through *outreach*, visual design, and conversations that connect researchers, clinicians, and the wider community.
+Beyond the lab, I love staying active, whether through running or working out, and I find balance in reading, cooking, and exploring new recipes. I also enjoy sharing science creatively—through **outreach**, visual design, and conversations that connect researchers, clinicians, and the wider community.
 {% endcapture %}
 
 {% capture col2 %}
