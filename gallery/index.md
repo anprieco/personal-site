@@ -1,11 +1,11 @@
 ---
-title: Galery
+title: Gallery
 nav:
   order: 4
   tooltip: Science in images
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Gallery
 
 A glimpse behind the scenes — from the lab bench to the microscope, this gallery gathers snapshots of experiments, 
 scientific visuals, conferences, and moments that capture the journey of doing science, learning, and sharing along the way.
@@ -31,4 +31,5 @@ scientific visuals, conferences, and moments that capture the journey of doing s
 %}
 
 {% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
 
