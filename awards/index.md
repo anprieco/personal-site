@@ -1,8 +1,8 @@
 ---
-title: Skills
+title: Awards
 nav:
   order: 6
-  tooltip: My toolkit
+  tooltip: Achievements
 ---
 
 # {% include icon.html icon="fa-solid fa-award" %}Awards
