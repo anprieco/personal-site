@@ -6,7 +6,7 @@
     **Doctoral Thesis:** *Rx-Cre;DicerF/F mice as a model to unveil the cellular origin and molecular drivers of embryonal tumors with multilayered rosettes.*
   image: /images/phd-lab.jpg
   link: /publications/
-  tags: [2018–2025]
+  tags: [2018–2025, Alicante]
   group: featured
 
 - title: Master’s in Neurosciences
@@ -15,7 +15,7 @@
     **Master’s Thesis:** *Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in glioblastoma.*
   image: /images/idibaps-lab.jpg
   link: /publications/
-  tags: [2016–2018]
+  tags: [2016–2017, Barcelona]
   group: featured
   
 - title: Master’s in Biomedical Research
@@ -24,7 +24,7 @@
     **Master’s Thesis:** *Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in glioblastoma.*
   image: /images/idibaps-lab.jpg
   link: /publications/
-  tags: [2016–2018]
+  tags: [2015–2016, Barcelona]
   group: featured
 
 - title: Bachelor’s in Biomedical Sciences
@@ -33,7 +33,7 @@
     **Bachelor’s Thesis:** *In vitro and in vivo interneural propagation of α-synuclein in the context of Parkinson’s Disease.*
   image: /images/ub-lab.jpg
   link: /publications/
-  tags: [2010–2014]
+  tags: [2011–2015, Barcelona]
   group: featured
 
 
@@ -43,13 +43,13 @@
   subtitle: Cold Spring Harbor Laboratory
   description: >
     Intensive course on experimental design, computational analysis, and interpretation of scRNA-seq data.
-  tags: [2023, genomics, training]
+  tags: [2023]
 
 - title: Certificate — “Good Laboratory Practices (GLP) & Research Ethics”
   subtitle: CSIC-UMH Graduate School
   description: >
     Completed certified training in research ethics, data integrity, and safety procedures.
-  tags: [2021, training]
+  tags: [2021]
 
 - title: Summer Internship
   subtitle: Universitat de Barcelona
