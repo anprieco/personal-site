@@ -16,8 +16,8 @@ scientific visuals, conferences, and moments that capture the journey of doing s
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="/images/Colorful Organoid.webp"
+  caption="Pax6/Tbr2 stained Cortical Organoid"
 %}
 
 {% endcapture %}
@@ -26,8 +26,8 @@ scientific visuals, conferences, and moments that capture the journey of doing s
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="/images/GraphicalAbstract.webp"
+  caption="Graphical Abstract for Bioessays"
 %}
 
 {% endcapture %}
