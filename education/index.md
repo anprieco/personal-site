@@ -5,11 +5,11 @@ nav:
   tooltip: Academic path
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Education
+# {% include icon.html icon="fa-solid fa-graduation-cap" %}Education
 
 A look at the studies and mentors that shaped my way of thinking and guided me into neuroscience research.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="Alicante, Barcelona" %}
 
 {% include search-info.html %}
 
@@ -17,10 +17,10 @@ A look at the studies and mentors that shaped my way of thinking and guided me i
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="education" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="education" filter="!group" style="small" %}
