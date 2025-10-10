@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: Experience
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Scientific journey
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A snapshot of my scientific path: From research training to projects that shaped my skills, collaborations, and curiosity.
 
 {% include tags.html tags="publication, resource, website" %}
 
