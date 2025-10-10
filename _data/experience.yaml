@@ -1,0 +1,34 @@
+# Featured items (will show under “Featured”)
+
+- title: PhD Candidate — Institute of Neuroscience (IN, CSIC-UMH)
+  subtitle: Developmental neurobiology & pediatric oncology
+  description: >
+    ETMR origins; Rx-Cre;DicerF/F mouse model; scRNA-seq; LIN28/let-7 axis.
+  image: /images/phd-lab.jpg            # optional thumbnail
+  link: /publications/                   # page to open when card is clicked
+  tags: [neurodevelopment, oncology, scRNA-seq]
+  badges: ["2019–Present"]              # small pills shown on the card
+  group: featured                        # <- marks it as “Featured”
+
+- title: Research Assistant — University of Barcelona
+  subtitle: Molecular & cellular neuroscience
+  description: >
+    Neuronal regeneration and cell fate; imaging; in vivo assays.
+  image: /images/ub-lab.jpg
+  link: /projects/                       # or an external URL
+  tags: [microscopy, regeneration]
+  badges: ["2017–2019"]
+  group: featured
+
+# More items (no group field)
+- title: Outreach & Science Communication
+  subtitle: AECC · Pint of Science
+  description: Talks, patient engagement, and public outreach activities.
+  tags: [outreach, communication]
+  badges: ["2022–2024"]
+
+- title: Mentorship
+  subtitle: Undergrad supervision in molecular and imaging techniques
+  description: Guided students in mouse genetics, histology, and analysis.
+  tags: [mentoring]
+  badges: ["2021–2024"]
