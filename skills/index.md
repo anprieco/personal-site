@@ -1,7 +1,7 @@
 ---
 title: Skills
 nav:
-  order: 3
+  order: 5
   tooltip: My toolkit
 ---
 
