@@ -1,11 +1,11 @@
 ---
-title: Conferences & Courses
+title: Events
 nav:
   order: 3
-  tooltip: Musings and miscellany
+  tooltip: Meetings & Courses
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Conferences & Courses
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Events
 
 Moments of learning, sharing, and inspiration: From conferences and talks to hands-on courses and workshops that have shaped my scientific journey.
 
