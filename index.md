@@ -43,7 +43,7 @@ Highlights from my research and scientific experiences, spanning regeneration, n
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Happy minibrain.webp"
   link="experience"
   title="Experience"
   text=text
@@ -66,7 +66,7 @@ A glimpse into the studies that shaped my research in neuroscience and pediatric
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GraphicalAbstract.webp"
   link="publications"
   title="Publications"
   flip=true
@@ -91,7 +91,7 @@ Technical and analytical skills that shape my approach to neuroscience and cance
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Organoid 16h.webp"
   link="skills"
   title="Skills"
   text=text
