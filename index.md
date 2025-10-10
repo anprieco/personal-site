@@ -5,7 +5,7 @@
   include button.html
   type="pdf"
   text="Take a look at my CV"
-  link="2025_CV_APC_Eng_Colorful.pdf"
+  link="/files/2025_CV_APC_Eng_Colorful.pdf"
 %}
 
 {% capture col1 %}
