@@ -1,7 +1,7 @@
 ---
 title: Events
 nav:
-  order: 3
+  order: 6
   tooltip: Meetings & Courses
 ---
 
