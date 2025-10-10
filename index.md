@@ -91,7 +91,7 @@ Technical and analytical skills that shape my approach to neuroscience and cance
 
 {%
   include feature.html
-  image="images/Organoid 16h.webp"
+  image="images/Organoid 16d.webp"
   link="skills"
   title="Skills"
   text=text
