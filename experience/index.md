@@ -9,7 +9,7 @@ nav:
 
 A snapshot of my scientific path: From research training to projects that shaped my skills, collaborations, and curiosity.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="regeneration, neurodegeneration, neurodevelopment, neuro-oncology" %}
 
 {% include search-info.html %}
 
