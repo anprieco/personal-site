@@ -1,0 +1,57 @@
+# Featured degrees (will show under “Featured”)
+
+- title: PhD in Neurosciences
+  subtitle: "Universidad Miguel Hernández de Elche (UMH)"
+  description: >
+    **Doctoral Thesis:** *Rx-Cre;DicerF/F mice as a model to unveil the cellular origin and molecular drivers of embryonal tumors with multilayered rosettes.*
+  image: /images/phd-lab.jpg
+  link: /publications/
+  tags: [2018–2025]
+  group: featured
+
+- title: Master’s in Neurosciences
+  subtitle: "Universitat Autònoma de Barcelona (UAB)"
+  description: >
+    **Master’s Thesis:** *Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in glioblastoma.*
+  image: /images/idibaps-lab.jpg
+  link: /publications/
+  tags: [2016–2018]
+  group: featured
+  
+- title: Master’s in Biomedical Research
+  subtitle: "Universitat Pompeu Fabra (UPF)"
+  description: >
+    **Master’s Thesis:** *Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in glioblastoma.*
+  image: /images/idibaps-lab.jpg
+  link: /publications/
+  tags: [2016–2018]
+  group: featured
+
+- title: Bachelor’s in Biomedical Sciences
+  subtitle: "University of Barcelona (UB)"
+  description: >  
+    **Bachelor’s Thesis:** *In vitro and in vivo interneural propagation of α-synuclein in the context of Parkinson’s Disease.*
+  image: /images/ub-lab.jpg
+  link: /publications/
+  tags: [2010–2014]
+  group: featured
+
+
+# Additional courses or programs (no group field)
+
+- title: Graduate Course — “Advanced Methods in Single-Cell Transcriptomics”
+  subtitle: Cold Spring Harbor Laboratory
+  description: >
+    Intensive course on experimental design, computational analysis, and interpretation of scRNA-seq data.
+  tags: [2023, genomics, training]
+
+- title: Certificate — “Good Laboratory Practices (GLP) & Research Ethics”
+  subtitle: CSIC-UMH Graduate School
+  description: >
+    Completed certified training in research ethics, data integrity, and safety procedures.
+  tags: [2021, training]
+
+- title: Summer Internship
+  subtitle: Universitat de Barcelona
+  description: >
+  tags: [2013]
