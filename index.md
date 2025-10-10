@@ -45,7 +45,7 @@ Highlights from my research and scientific experiences, spanning regeneration, n
   include feature.html
   image="images/photo.jpg"
   link="experience"
-  title="Take a loot to my experience"
+  title="Take a look to my experience"
   text=text
 %}
 
