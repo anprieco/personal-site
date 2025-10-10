@@ -1,7 +1,7 @@
 ---
 title: Gallery
 nav:
-  order: 4
+  order: 7
   tooltip: Science in images
 ---
 
