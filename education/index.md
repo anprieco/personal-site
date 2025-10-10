@@ -1,7 +1,7 @@
 ---
 title: Education
 nav:
-  order: 3
+  order: 4
   tooltip: Academic path
 ---
 
