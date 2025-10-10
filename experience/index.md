@@ -5,7 +5,7 @@ nav:
   tooltip: Scientific journey
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Experience
+# {% include icon.html icon="fa-solid fa-dna" %}Experience
 
 A snapshot of my scientific path: From research training to projects that shaped my skills, collaborations, and curiosity.
 
@@ -17,10 +17,10 @@ A snapshot of my scientific path: From research training to projects that shaped
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="experience" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="experience" filter="!group" style="small" %}
