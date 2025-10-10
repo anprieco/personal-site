@@ -7,7 +7,7 @@
     **Doctoral Thesis:** *Rx-Cre;DicerF/F mice as a model to unveil the cellular origin and molecular drivers of embryonal tumors with multilayered rosettes.*
   image: /images/phd-lab.jpg
   link: /publications/
-  tags: [neurodevelopment, neuro-oncology]
+  tags: [2018-2025, neurodevelopment, neuro-oncology]
   badges: ["2018–2025"]
   group: featured
 
@@ -18,7 +18,7 @@
     **Master’s Thesis:** *Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in Glioblastoma.*
   image: /images/phd-lab.jpg
   link: /publications/
-  tags: [neuro-oncology]
+  tags: [2016-2018, neuro-oncology]
   badges: ["2016–2018"]
   group: featured
 
@@ -30,7 +30,7 @@
     **Bachelor’s Thesis:** *In vitro and in vivo interneural propagation of α-synuclein in the context of Parkinson’s Disease.*
   image: /images/ub-lab.jpg
   link: /projects/
-  tags: [neurodegeneration]
+  tags: [2014-2016, neurodegeneration]
   badges: ["2014–2016"]
   group: featured
 
@@ -40,7 +40,7 @@
     Worked on regeneration using planarian models, investigating the cellular and molecular mechanisms that regulate tissue renewal and patterning.
   image: /images/ub-lab.jpg
   link: /projects/
-  tags: [regeneration]
+  tags: [2013, regeneration]
   badges: ["2013"]
   group: featured
   
