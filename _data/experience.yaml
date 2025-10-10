@@ -1,68 +1,68 @@
 # Featured items (will show under “Featured”)
 
 - title: PhD Candidate 
-  subtitle: Institute of Neuroscience (IN, CSIC-UMH) 
-  subtitle: Neurogenesis and Cortical Expansion Group, PhD. Víctor Borrell
+  subtitle: "Institute of Neuroscience (CSIC-UMH), Neurogenesis and Cortical Expansion Group — PhD. Víctor Borrell"
   description: >
-    Studied the developmental origins of pediatric brain tumors, combining genetics, molecular biology, and transcriptomics to model and understand ETMR formation.
-    Doctoral Thesis: Rx-Cre;DicerF/F mice as a model to unveil the cellular origin and molecular drivers of embryonal tumors with multilayered rosettes.
-  image: /images/phd-lab.jpg            # optional thumbnail
-  link: /publications/                   # page to open when card is clicked
+    Studied the developmental origins of pediatric brain tumors, combining genetics, molecular biology, and transcriptomics to model and understand ETMR formation.  
+    **Doctoral Thesis:** *Rx-Cre;DicerF/F mice as a model to unveil the cellular origin and molecular drivers of embryonal tumors with multilayered rosettes.*
+  image: /images/phd-lab.jpg
+  link: /publications/
   tags: [neurodevelopment, neuro-oncology]
-  badges: ["2018–2025"]              # small pills shown on the card
-  group: featured                        # <- marks it as “Featured”
+  badges: ["2018–2025"]
+  group: featured
 
- - title: Research Scientist 
-  subtitle: Institut Investigacions Biomédiques August Pi i Sunyer (IDIBAPS, Hospital Clínic)
-  subtitle: Glioma and Stem Cells, PhD. Núria de la Iglesia
+- title: Research Scientist 
+  subtitle: "Institut d’Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS, Hospital Clínic) — Glioma and Stem Cells, PhD. Núria de la Iglesia"
   description: >
-    Worked on molecular and cellular mechanisms underlying glioblastoma, focusing on tumor heterogeneity and the interaction of tumor cells with the microenvironment.
-    Master's Thesis: Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in Glioblastoma.
-  image: /images/phd-lab.jpg            # optional thumbnail
-  link: /publications/                   # page to open when card is clicked
+    Worked on molecular and cellular mechanisms underlying glioblastoma, focusing on tumor heterogeneity and the interaction of tumor cells with the microenvironment.  
+    **Master’s Thesis:** *Gain of reactive astrocyte-like properties during the proneural to mesenchymal transition in Glioblastoma.*
+  image: /images/phd-lab.jpg
+  link: /publications/
   tags: [neuro-oncology]
-  badges: ["2016–2018"]              # small pills shown on the card
-  group: featured                        # <- marks it as “Featured”
+  badges: ["2016–2018"]
+  group: featured
 
 - title: Research Scientist
-  subtitle: Institut de Bioenginyeria de Catalanya (IBEC, UB)
-  subtitle: Cellular and molecular neurobiotechnology, PhD. José Antonio del Río
+  subtitle: "Institut de Bioenginyeria de Catalunya (IBEC, UB) — Cellular and Molecular Neurobiotechnology, PhD. José Antonio del Río"
   description: >
-    Worked on neurodegeneration in Parkinson’s and Alzheimer’s disease, studying the origin and propagation of α-synuclein pathology and identifying blood-based biomarkers for Alzheimer’s diagnosis.
-    Master's Thesis: Evaluation of novel cardiovascular and inflammatory biomarkers for Alzheimer’s Disease in human plasma.
-    Bachelor's Thesis: In vitro and In vivo interneural propagation of α-synuclein in the context of Parkinson’s Disease.
+    Worked on neurodegeneration in Parkinson’s and Alzheimer’s disease, studying the origin and propagation of α-synuclein pathology and identifying blood-based biomarkers for Alzheimer’s diagnosis.  
+    **Master’s Thesis:** *Evaluation of novel cardiovascular and inflammatory biomarkers for Alzheimer’s Disease in human plasma.*  
+    **Bachelor’s Thesis:** *In vitro and in vivo interneural propagation of α-synuclein in the context of Parkinson’s Disease.*
   image: /images/ub-lab.jpg
-  link: /projects/                       # or an external URL
+  link: /projects/
   tags: [neurodegeneration]
   badges: ["2014–2016"]
   group: featured
 
 - title: Research Assistant 
-  subtitle: Universitat de Barcelona (UB)
-  subtitle: Cellular and molecular neurobiotechnology, PhD. Francesc Cebrià
+  subtitle: "Universitat de Barcelona (UB) — Cellular and Molecular Neurobiotechnology, PhD. Francesc Cebrià"
   description: >
-   Worked on regeneration using planarian models, investigating the cellular and molecular mechanisms that regulate tissue renewal and patterning.
+    Worked on regeneration using planarian models, investigating the cellular and molecular mechanisms that regulate tissue renewal and patterning.
   image: /images/ub-lab.jpg
-  link: /projects/                       # or an external URL
+  link: /projects/
   tags: [regeneration]
   badges: ["2013"]
   group: featured
   
 # More items (no group field)
-- title: Event Organizer of the Alicante Pint of Science
-  subtitle: Outreach & Science Communication
-  description: Talks, organization and public outreach activities.
-  tags: [outreach]
-  badges: ["2024-2025"]
 
-  - title: Science School Teacher
+- title: Event Organizer — Pint of Science Alicante
+  subtitle: Outreach & Science Communication
+  description: >
+    Talks, organization, and public outreach activities.
+  tags: [outreach]
+  badges: ["2024–2025"]
+
+- title: Science School Teacher
   subtitle: Explorium SCL
-  description: Led science workshops for children focused on exploration and experimental learning.
+  description: >
+    Led science workshops for children focused on exploration and experimental learning.
   tags: [outreach]
   badges: ["2015–2016"]
 
 - title: Mentorship
-  subtitle: Undergrad supervision in molecular and imaging techniques
-  description: Guided students in mouse genetics, cell and organoid culture, histology, and analysis.
+  subtitle: Undergraduate supervision in molecular and imaging techniques
+  description: >
+    Guided students in mouse genetics, cell and organoid culture, histology, and analysis.
   tags: [mentoring]
   badges: ["2018–2025"]
