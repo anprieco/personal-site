@@ -33,7 +33,7 @@ Highlights from my research and scientific experiences, spanning regeneration, n
 {%
   include button.html
   link="experience"
-  text="Take a look at my experience"
+  text="Discover experience"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
