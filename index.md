@@ -33,7 +33,7 @@ Highlights from my research and scientific experiences, spanning regeneration, n
 {%
   include button.html
   link="experience"
-  text="See my research"
+  text="Take a look at my experience"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -45,7 +45,7 @@ Highlights from my research and scientific experiences, spanning regeneration, n
   include feature.html
   image="images/photo.jpg"
   link="experience"
-  title="Take a look to my experience"
+  title="Experience"
   text=text
 %}
 
@@ -56,7 +56,7 @@ A glimpse into the studies that shaped my research in neuroscience and pediatric
 {%
   include button.html
   link="publications"
-  text="Browse my publications"
+  text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -93,6 +93,6 @@ Technical and analytical skills that shape my approach to neuroscience and cance
   include feature.html
   image="images/photo.jpg"
   link="skills"
-  title="Check out my skills"
+  title="Skills"
   text=text
 %}
