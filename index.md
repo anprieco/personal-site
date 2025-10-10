@@ -56,7 +56,7 @@ A glimpse into the studies that shaped my research in neuroscience and pediatric
 {%
   include button.html
   link="publications"
-  text="Publications"
+  text="Browse my publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -68,7 +68,7 @@ A glimpse into the studies that shaped my research in neuroscience and pediatric
   include feature.html
   image="images/photo.jpg"
   link="publications"
-  title="Browse my publications"
+  title="Publications"
   flip=true
   style="bare"
   text=text
