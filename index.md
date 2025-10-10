@@ -1,6 +1,13 @@
 ---
 ---
 
+{%
+  include button.html
+  type="pdf"
+  text="Take a look at my CV"
+  link="2025_CV_APC_Eng_Colorful.pdf"
+%}
+
 {% capture col1 %}
 Welcome! I’m a biomedical scientist fascinated by how the same developmental programs that sculpt the brain’s incredible complexity can, when disrupted, give rise to childhood cancers.
 
