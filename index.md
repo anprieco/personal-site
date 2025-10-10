@@ -28,7 +28,7 @@ Beyond the lab, I love staying active, whether through running or working out, a
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Highlights from my research and scientific experiences, spanning regeneration, neurodegeneration, glioblastoma, neurodevelopment and embryonal brain tumors.
 
 {%
   include button.html
@@ -45,13 +45,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="experience"
-  title="My experience"
+  title="Take a loot to my experience"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A glimpse into the studies that shaped my research in neuroscience and pediatric oncology.
 
 {%
   include button.html
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="publications"
-  title="See my publications"
+  title="Browse my publications"
   flip=true
   style="bare"
   text=text
@@ -76,12 +76,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Technical and analytical skills that shape my approach to neuroscience and cancer research.
 
 {%
   include button.html
   link="skills"
-  text="Check my skills"
+  text="Check out my skills"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -93,6 +93,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="skills"
-  title="Chek my skills"
+  title="Check out my skills"
   text=text
 %}
