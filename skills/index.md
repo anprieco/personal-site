@@ -1,15 +1,13 @@
 ---
-title: Team
+title: Skills
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: My toolkit
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Skills
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A look at the techniques and approaches I’ve developed along my journey.
 
 {% include section.html %}
 
