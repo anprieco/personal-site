@@ -1,34 +1,48 @@
 ---
-title: "Contact"
-layout: page
+title: Contact
 nav:
-  order: 7
-  tooltip: "Get in touch"
+  order: 5
+  tooltip: Email, address, and location
 ---
+
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Interested in collaborating or exchanging ideas around neuroscience, oncology, or translational innovation?
 I’d love to connect with others working to turn science into impact.
 
-{% include button.html type="email" text="anprieco@gmail.com" link="mailto:anprieco@gmail.com" %}
-{% include button.html type="website" text="Institute map (Google)" link="https://www.google.com/maps/place/Instituto+de+Neurociencias+CSIC-UMH/@38.3889106,-0.4386145,17z" %}
+{%
+  include button.html
+  type="email"
+  text="Email Anna"
+  link="anprieco@gmail.com"
+%}
+{%
+  include button.html
+  type="Find me at IN"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://www.google.com/maps](https://www.google.com/maps/place/Instituto+de+Neurociencias+CSIC-UMH/@38.3889106,-0.4386145,17z/data=!3m1!4b1!4m6!3m5!1s0xd623a1e781744b9:0x2ee8ac39090678d1!8m2!3d38.3889064!4d-0.4360396!16s%2Fg%2F121qgcnr?entry=ttu&g_ep=EgoyMDI1MTAwNy4wIKXMDSoASAFQAw%3D%3D"
+%}
 
 {% include section.html %}
 
 {% capture col1 %}
-{% include figure.html image="images/photo.jpg" caption="Lab / institute entrance" %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
 {% endcapture %}
 
 {% capture col2 %}
-**Institute of Neuroscience (CSIC-UMH)**  
-Campus de San Juan, Alicante, Spain
 
-**Email**  
-[anprieco@gmail.com](mailto:anprieco@gmail.com)
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
 
-**Social**  
-[Google Scholar](https://scholar.google.com/citations?user=8HR8AqkAAAAJ&hl=es) ·
-[GitHub](https://github.com/anprieco) ·
-[Bluesky](https://bsky.app/profile/annaprico.bsky.social)
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
@@ -36,18 +50,21 @@ Campus de San Juan, Alicante, Spain
 {% include section.html dark=true %}
 
 {% capture col1 %}
-**Collaborations**  
-I’m open to joint projects at the interface of neurodevelopment and pediatric oncology.
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col2 %}
-**Talks & Outreach**  
-Happy to give talks or participate in outreach activities.
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col3 %}
-**Mentoring**  
-I enjoy mentoring students—feel free to reach out.
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
